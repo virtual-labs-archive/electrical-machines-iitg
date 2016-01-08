@@ -1,5 +1,0 @@
-S.no		Test case link
-1. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/System/Electrical%20Machines%20Laboratory_01_Usability_smk.org][Electrical Machines Laboratory_01_Usability_smk.org]]
-2. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/System/Electrical%20Machines%20Laboratory_02_About_smk.org][Electrical Machines Laboratory_02_About_smk.org]]
-3. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/System/Electrical%20Machines%20Laboratory_03_People_smk.org][Electrical Machines Laboratory_03_People_smk.org]]
-4. 	[[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/System/Electrical%20Machines%20Laboratory_04_Contact%20Us_smk.org][Electrical Machines Laboratory_04_Contact Us_smk.org]]
