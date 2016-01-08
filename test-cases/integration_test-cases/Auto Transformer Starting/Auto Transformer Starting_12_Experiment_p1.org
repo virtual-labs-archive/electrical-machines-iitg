@@ -1,0 +1,35 @@
+* Author: Nihanth
+* Date Created: 08 Jan 2016
+* Environment
+  - OS: Windows 7, Linux
+  - Browsers: Firefox,Chrome
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM , 
+  - Processor:i5
+
+* Objective
+  - To do the Experiment of the Auto Transformer Starting experiment
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-electrical-machine-iitg/blob/master/test-cases/integration_test-cases/Auto Transformer Starting/Auto Transformer Starting_01_Usability_smk.org][Auto Transformer Starting_01_Usability_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+  1. Click on the Experiment link 
+  2. It should re-direct to the Experiment page
+  3. Set ac power supply and connect all the wires as follows4.Connect CH1 of the oscilloscope to L21 and Connect CH2 and CH3 with the motor shaft.
+  4. Choose the red colour cable button and Connect L21 to the one of the terminal of the ammeter and Connect U1 to the other terminal of the ammeter.6.Choose the green colour cable button Connect L22 to V1 and Connect w1 to one of the terminal of the voltmeter.
+  5. Choose the blue colour cable button Connect L32 to W1 and Connect w2 to the other terminal of the voltmeter
+  6. Choose the black colour cable button and Connect U2  and V2 and Connect V2  and W29.Click the check button and if the connection is correct, click OK.
+  7. If the connection is wrong, follow the error message displayed and correct the connection.
+  8. Select 1 on the two way switch on the left hand side of the panel and Switch ON the MCB and click the start button and Switch ON the second MCB.12.Select star or delta by clicking the three way switch in the star delta starter
+
+* Expected result
+  1. Experiment page should be opened
+  2. Content should be present with no distortions and Junk characters
+  3. If the connected wires are correct then the experiment should run and the result should be displayed , otherwise an error message should be displayed on the screen
+
+* Review/comments
+
+
