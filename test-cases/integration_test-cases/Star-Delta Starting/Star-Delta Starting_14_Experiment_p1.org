@@ -1,0 +1,43 @@
+* Author: Nihanth
+* Date Created: 08 Jan 2016
+* Environment
+  - OS: Windows 7, Linux
+  - Browsers: Firefox,Chrome
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM , 
+  - Processor:i5
+
+* Objective
+  - To do the Experiment of the Star-Delta Starting experiment
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/electrical-machines-iitg/blob/master/test-cases/integration_test-cases/Star-Delta Starting/Star-Delta Starting_01_Usability_smk.org][Star-Delta Starting_01_Usability_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+  1. Click on the Experiment link 
+  2. It should re-direct to the Experiment page
+  3. Set ac power supply and connect the wires as follows 
+  4. Connect CH1 of the oscilloscope to L11 and connect CH2 and CH3 with the motor shaft.
+  5. Choose the red colour cable button and connect L11 to the one of the terminal of the ammeter and connect l1 to the other terminal of the ammeter.
+  6. Choose the green colour cable button and connect L12 to l2.
+  7. Choose the blue colour cable button and connect L31 to l3.
+  8. Choose the black colour cable button.
+  9. Connect w1 to one of the terminal and w2 to the other terminal of the voltmeter.
+  10. Connect u1 of the star delta starter to u1 of the motor terminals.
+  11. Connect v1 of the star delta starter to v1 of the motor terminals.
+  12. Connect w1 of the star delta starter to w1 of the motor terminals.
+  13. Connect u2 of the star delta starter to u2 of the motor terminals.
+  14. Connect v2 of the star delta starter to v2 of the motor terminals.
+  15. Connect w2 of the star delta starter to w2 of the motor terminals.
+  16. Click on the stop button
+
+* Expected result
+  1. Experiment page should be opened
+  2. Content should be present with no distortions and Junk characters
+  3. The experiment should not run
+
+* Review/comments
+
+
